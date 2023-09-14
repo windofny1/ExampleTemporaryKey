@@ -1,0 +1,15 @@
+C:\Users\devel\source\repos\ExampleTemporaryKey\src\core\TemporalKey.Application\bin\Debug\net8.0\TemporalKey.Application.deps.json
+C:\Users\devel\source\repos\ExampleTemporaryKey\src\core\TemporalKey.Application\bin\Debug\net8.0\TemporalKey.Application.dll
+C:\Users\devel\source\repos\ExampleTemporaryKey\src\core\TemporalKey.Application\bin\Debug\net8.0\TemporalKey.Application.pdb
+C:\Users\devel\source\repos\ExampleTemporaryKey\src\core\TemporalKey.Application\bin\Debug\net8.0\TemporalKey.Domain.dll
+C:\Users\devel\source\repos\ExampleTemporaryKey\src\core\TemporalKey.Application\bin\Debug\net8.0\TemporalKey.Domain.pdb
+C:\Users\devel\source\repos\ExampleTemporaryKey\src\core\TemporalKey.Application\obj\Debug\net8.0\TemporalKey.Application.csproj.AssemblyReference.cache
+C:\Users\devel\source\repos\ExampleTemporaryKey\src\core\TemporalKey.Application\obj\Debug\net8.0\TemporalKey.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devel\source\repos\ExampleTemporaryKey\src\core\TemporalKey.Application\obj\Debug\net8.0\TemporalKey.Application.AssemblyInfoInputs.cache
+C:\Users\devel\source\repos\ExampleTemporaryKey\src\core\TemporalKey.Application\obj\Debug\net8.0\TemporalKey.Application.AssemblyInfo.cs
+C:\Users\devel\source\repos\ExampleTemporaryKey\src\core\TemporalKey.Application\obj\Debug\net8.0\TemporalKey.Application.csproj.CoreCompileInputs.cache
+C:\Users\devel\source\repos\ExampleTemporaryKey\src\core\TemporalKey.Application\obj\Debug\net8.0\TemporalKey.Application.csproj.CopyComplete
+C:\Users\devel\source\repos\ExampleTemporaryKey\src\core\TemporalKey.Application\obj\Debug\net8.0\TemporalKey.Application.dll
+C:\Users\devel\source\repos\ExampleTemporaryKey\src\core\TemporalKey.Application\obj\Debug\net8.0\refint\TemporalKey.Application.dll
+C:\Users\devel\source\repos\ExampleTemporaryKey\src\core\TemporalKey.Application\obj\Debug\net8.0\TemporalKey.Application.pdb
+C:\Users\devel\source\repos\ExampleTemporaryKey\src\core\TemporalKey.Application\obj\Debug\net8.0\ref\TemporalKey.Application.dll

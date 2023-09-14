@@ -1,0 +1,12 @@
+C:\Users\devel\source\repos\ExampleTemporaryKey\src\core\TemporalKey.Domain\bin\Debug\net8.0\TemporalKey.Domain.deps.json
+C:\Users\devel\source\repos\ExampleTemporaryKey\src\core\TemporalKey.Domain\bin\Debug\net8.0\TemporalKey.Domain.dll
+C:\Users\devel\source\repos\ExampleTemporaryKey\src\core\TemporalKey.Domain\bin\Debug\net8.0\TemporalKey.Domain.pdb
+C:\Users\devel\source\repos\ExampleTemporaryKey\src\core\TemporalKey.Domain\obj\Debug\net8.0\TemporalKey.Domain.csproj.AssemblyReference.cache
+C:\Users\devel\source\repos\ExampleTemporaryKey\src\core\TemporalKey.Domain\obj\Debug\net8.0\TemporalKey.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devel\source\repos\ExampleTemporaryKey\src\core\TemporalKey.Domain\obj\Debug\net8.0\TemporalKey.Domain.AssemblyInfoInputs.cache
+C:\Users\devel\source\repos\ExampleTemporaryKey\src\core\TemporalKey.Domain\obj\Debug\net8.0\TemporalKey.Domain.AssemblyInfo.cs
+C:\Users\devel\source\repos\ExampleTemporaryKey\src\core\TemporalKey.Domain\obj\Debug\net8.0\TemporalKey.Domain.csproj.CoreCompileInputs.cache
+C:\Users\devel\source\repos\ExampleTemporaryKey\src\core\TemporalKey.Domain\obj\Debug\net8.0\TemporalKey.Domain.dll
+C:\Users\devel\source\repos\ExampleTemporaryKey\src\core\TemporalKey.Domain\obj\Debug\net8.0\refint\TemporalKey.Domain.dll
+C:\Users\devel\source\repos\ExampleTemporaryKey\src\core\TemporalKey.Domain\obj\Debug\net8.0\TemporalKey.Domain.pdb
+C:\Users\devel\source\repos\ExampleTemporaryKey\src\core\TemporalKey.Domain\obj\Debug\net8.0\ref\TemporalKey.Domain.dll

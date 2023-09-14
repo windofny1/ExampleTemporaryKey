@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uA+NPJ7JB33syJuFV17hNXoCiSGrq5pdpKGmEbFnwc4coD6DOWuKk3EBUb55Ml6d/u8Ua4a0zIWk/QH3pvl2Bw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\devel\\source\\repos\\ExampleTemporaryKey\\src\\core\\TemporalKey.Domain\\TemporalKey.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\devel\\.nuget\\packages\\erroror\\1.2.1\\erroror.1.2.1.nupkg.sha512",
+    "C:\\Users\\devel\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\devel\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\devel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0-preview.7.23375.6\\microsoft.extensions.dependencyinjection.abstractions.8.0.0-preview.7.23375.6.nupkg.sha512"
+  ],
+  "logs": []
+}

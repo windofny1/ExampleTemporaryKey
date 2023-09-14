@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3IdyBfs6mGF+fV609jLdJGVoTA5aNks8Pf5sF1UuvgY=",
+  "Source": "TemporalKey.WebAPI",
+  "BasePath": "_content/TemporalKey.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
